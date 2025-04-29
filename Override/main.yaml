@@ -1,8 +1,8 @@
-haha:
-  kaka: 123
 proxy-groups:
-  - name: 🎥 奈飞节点
+  - name: 🎥 奈飞节点_EX
+    type: select
     proxies:
+      - DIRECT
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇸🇬 新加坡实验性 IEPL 中继 1
