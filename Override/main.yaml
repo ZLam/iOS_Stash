@@ -1,5 +1,5 @@
 haha:
-  kaka: "123"
+  kaka: 123
 proxy-groups:
   - name: 🎥 奈飞节点
     proxies:
