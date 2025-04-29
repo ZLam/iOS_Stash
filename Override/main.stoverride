@@ -1,5 +1,8 @@
+name: 'netflix_override'
+desc: 'netflix_override'
+
 proxy-groups:
-  - name: 🎥 奈飞节点_EX
+  - name: 🎥 netflix_override
     type: select
     proxies:
       - DIRECT
